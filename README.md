@@ -8,7 +8,7 @@ DESKTOP first .
 ![App Screenshot](screenshot/SCR-20240328-qjdm.png)
 
 ## Demo
-[](https://subgrid.netlify.app/)
+[https://subgrid.netlify.app/](https://subgrid.netlify.app/)
 
 ## Note - Keep in mind
 REMEMBER THAT IF YOUR LAYOUT IS 
