@@ -1,11 +1,11 @@
-# Acme-Web-Solition-Landing-Page
+# SubGrid-Exercise
 
-Small Landing Page with CSS & HTML.Responsive
-Mobile first .
+Small exercise Landing Page with CSS GRID & SUBGRIDE & HTML.Responsive
+DESKTOP first .
 
 
 ## Screenshots
-![App Screenshot](creenshot/SCR-20240328-nywp.png)
+![App Screenshot](screenshot/SCR-20240328-qjdm.png)
 
 ## Demo
 [](https://subgrid.netlify.app/)
