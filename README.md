@@ -1,6 +1,6 @@
-# SubGrid-Exercise
+# Grid-Exercise
 
-Small exercise Landing Page with CSS GRID & SUBGRIDE & HTML.Responsive
+Small exercise Landing Page with CSS GRID & GRIDE & HTML.Responsive
 DESKTOP first .
 
 
